@@ -37,4 +37,4 @@ jobs:
         run: npm run test
 
       - name: Build
-        run: yarn build
+        run: npm run build
