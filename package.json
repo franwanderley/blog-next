@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "typecheck": "tsc --project tsconfig.json --noEmit",
     "start": "next start",
     "lint": "eslint \"**/*.{js,jsx,ts,tsx}\" --max-warnings=0",
     "prepare": "husky"
