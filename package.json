@@ -27,7 +27,7 @@
   "dependencies": {
     "@swc/jest": "^0.2.36",
     "contentlayer": "^0.3.4",
-    "next": "13.4.4",
+    "next": "14.2.3",
     "next-contentlayer": "^0.3.4",
     "prettier": "^3.2.5",
     "react": "^18",
